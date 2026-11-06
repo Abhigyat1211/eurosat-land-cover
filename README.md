@@ -271,6 +271,6 @@ Pretrained ResNet50 and MobileNetV2 weights come from Keras Applications (ImageN
 
 ## Contact
 
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**[Abhigyat Chowdhary]** · [LinkedIn](https://www.linkedin.com/in/abhigyat-chowdhary-380634419) · [GitHub](https://github.com/Abhigyat1211)
 
 If you found this useful, a ⭐ on the repo is appreciated.
