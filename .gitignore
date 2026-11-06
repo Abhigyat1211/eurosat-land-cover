@@ -1,0 +1,9 @@
+saved_models/
+*.keras
+*.weights.h5
+*.zip
+EuroSAT/
+EuroSAT_RGB/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
